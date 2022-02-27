@@ -13,14 +13,14 @@ Solution for [rustlings](https://github.com/rust-lang/rustlings) under v4.6.0
 
 | Exercies                 | Progress  | Code                                                                                                 |
 | :----------------------: | :-------: | :--------------------------------------------------------------------------------------------------: |
-| `move_semantics`         | 0/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/move_semantics)         |
-| `primitive_types`        | 0/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/primitive_types)        |
-| `structs`                | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/structs)                |
-| `enums`                  | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/enums)                  |
-| `modules`                | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/modules)                |
-| `collections`            | 0/4       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/collections)            |
-| `strings`                | 0/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/strings)                |
-| `quiz2`                  | 0/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz2.rs)               |
+| `move_semantics`         | 5/5       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/move_semantics)         |
+| `primitive_types`        | 6/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/primitive_types)        |
+| `structs`                | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/structs)                |
+| `enums`                  | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/enums)                  |
+| `modules`                | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/modules)                |
+| `collections`            | 4/4       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/collections)            |
+| `strings`                | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/strings)                |
+| `quiz2`                  | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz2.rs)               |
 
 | Exercies                 | Progress  | Code                                                                                                 |
 | :----------------------: | :-------: | :--------------------------------------------------------------------------------------------------: |
