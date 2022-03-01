@@ -24,12 +24,12 @@ Solution for [rustlings](https://github.com/rust-lang/rustlings) under v4.6.0
 
 | Exercies                 | Progress  | Code                                                                                                 |
 | :----------------------: | :-------: | :--------------------------------------------------------------------------------------------------: |
-| `error_handlings`        | 0/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/error_handling)         |
-| `generics`               | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/generics)               |
-| `option`                 | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/option)                 |
-| `traits`                 | 0/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/traits)                 |
-| `tests`                  | 0/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/tests)                  |
-| `quiz3`                  | 0/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz3.rs)               |
+| `error_handlings`        | 6/6       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/error_handling)         |
+| `generics`               | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/generics)               |
+| `option`                 | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/option)                 |
+| `traits`                 | 2/2       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/traits)                 |
+| `tests`                  | 3/3       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/tests)                  |
+| `quiz3`                  | 1/1       | [:link:](https://github.com/alstn2468/rustlings-solution/tree/main/exercises/quiz3.rs)               |
 
 | Exercies                 | Progress  | Code                                                                                                 |
 | :----------------------: | :-------: | :--------------------------------------------------------------------------------------------------: |
