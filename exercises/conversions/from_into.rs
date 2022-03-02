@@ -43,15 +43,14 @@ impl From<&str> for Person {
                 let name = &s[..position];
                 if name.is_empty() {
                     Person::default()
-                } else {
-                    let other = &s[(position + 1)..];
-                    match other.parse::<usize>() {
-                        Ok(n) => Person {
-                            name: name.to_string(),
-                            age: n,
-                        },
-                        _ => Person::default(),
-                    }
+                }
+                let other = &s[(position + 1)..];
+                match other.parse::<usize>() {
+                    Ok(n) => Person {
+                        name: name.to_string(),
+                        age: n,
+                    },
+                    _ => Person::default(),
                 }
             }
             _ => Person::default(),
